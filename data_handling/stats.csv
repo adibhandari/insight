@@ -1,0 +1,51 @@
+state,city,total,total_correct_city,max_dist,max_dist_city,bad_dates
+AL,Birmingham,39005,1445,99.6295,13.3825,714
+AK,Anchorage,2769,2516,78.5158,8.8004,102
+AZ,Phoenix,59766,17393,99.8284,32.4871,1154
+AR,Little Rock,22584,509,97.0427,10.2831,184
+CA,Los Angeles,44687,28564,10.4834,10.4192,301
+CO,Denver,85222,8587,99.8258,10.8111,1684
+CT,Bridgeport,11291,1036,15.9824,2.3724,406
+DE,Wilmington,-1,,,,
+FL,Jacksonville,-1,,,,
+GA,Atlanta,-1,,,,
+HI,Honolulu,only 1,,,,
+ID,Boise,-1,,,,
+IL,Chicago,-1,,,,
+IN,Indianapolis,-1,,,,
+IA,Des Moines,-1,,,,
+KS,Wichita,-1,,,,
+KY,Louisville,-1,,,,
+LA,New Orleans,-1,,,,
+ME,Portland,-1,,,,
+MD,Baltimore,-1,,,,
+MA,Boston,-1,,,,
+MI,Detroit,,,,,
+MN,Minneapolis,-1,,,,
+MS,Jackson,,,,,
+MO,Kansas City,,,,,
+MT,Billings,,,,,
+NE,Omaha,,,,,
+NV,Las Vegas,,,,,
+NH,Manchester,,,,,
+NJ,Newark,-1,,,,
+NM,Albuquerque,,,,,
+NY,New York,85059,15988,21.6517,12.4244,4584
+NC,Charlotte,,,,,
+ND,Fargo,,,,,
+OH,Columbus,,,,,
+OK,Oklahoma City,,,,,
+OR,Portland,x,,,,
+PA,Philadelphia,,,,,
+RI,Providence,,,,,
+SC,Charleston,,,,,
+SD,Sioux Falls,,,,,
+TN,Nashville,,,,,
+TX,Houston,-1,,,,
+UT,Salt Lake City,,,,,
+VT,Burlington,,,,,
+VA,Virginia Beach,,,,,
+WA,Seattle,,,,,
+WV,Charleston,,,,,
+WI,Milwaukee,-1,,,,
+WY,Cheyenne,,,,,
