@@ -1,0 +1,50 @@
+state,city,total,total_correct_city,max_dist,max_dist_city,bad_dates
+AL,Birmingham,39005,1445.0,99.6295,13.3825,689.0
+AK,Anchorage,2769,2516.0,78.5158,8.8004,102.0
+AZ,Phoenix,59766,17393.0,99.8284,32.4871,1154.0
+AR,Little Rock,22584,509.0,97.0427,10.2831,172.0
+CA,Los Angeles,44687,28564.0,10.4834,10.4192,300.0
+CO,Denver,85222,8587.0,99.8258,10.8111,1682.0
+CT,Bridgeport,11291,1036.0,15.9824,2.3724,406.0
+DE,Wilmington,-1,,24.8194,,274.0
+FL,Jacksonville,-1,,99.5038,,538.0
+GA,Atlanta,-1,,23.0818,,578.0
+ID,Boise,-1,,94.8936,,48.0
+IL,Chicago,-1,,19.6805,,419.0
+IN,Indianapolis,-1,,49.6273,,371.0
+IA,Des Moines,-1,,99.4655,,390.0
+KS,Wichita,-1,,99.5865,,91.0
+KY,Louisville,-1,,67.7203,,195.0
+LA,New Orleans,-1,,73.3786,,371.0
+ME,Portland,-1,,81.3919,,312.0
+MD,Baltimore,-1,,32.2438,,1153.0
+MA,Boston,-1,,27.2528,,211.0
+MI,Detroit,-1,,35.4318,,390.0
+MN,Minneapolis,-1,,34.529,,3808.0
+MS,Jackson,-1,,89.9146,,78.0
+MO,Kansas City,-1,,45.0466,,182.0
+MT,Billings,-1,,54.5418,,29.0
+NE,Omaha,-1,,93.6456,,364.0
+NV,Las Vegas,-1,,73.7329,,1374.0
+NH,Manchester,-1,,39.6802,,359.0
+NJ,Newark,-1,,11.5755,,424.0
+NM,Albuquerque,-1,,95.1596,,402.0
+NY,New York,85059,15988.0,21.6517,12.4244,2645.0
+NC,Charlotte,-1,,37.0481,,467.0
+ND,Fargo,-1,,90.5999,,24.0
+OH,Columbus,-1,,55.1945,,675.0
+OK,Oklahoma City,-1,,97.6708,,663.0
+OR,Portland,-1,,45.3379,,1025.0
+PA,Philadelphia,-1,,15.0837,,347.0
+RI,Providence,-1,,27.8698,,2938.0
+SC,Charleston,-1,,97.8986,,259.0
+SD,Sioux Falls,-1,,67.1296,,75.0
+TN,Nashville,-1,,47.0528,,365.0
+TX,Houston,-1,,19.5985,,1440.0
+UT,Salt Lake City,-1,,71.8266,,710.0
+VT,Burlington,-1,,96.8903,,243.0
+VA,Virginia Beach,-1,,99.5927,,413.0
+WA,Seattle,-1,,48.0798,,1373.0
+WV,Charleston,-1,,99.7337,,184.0
+WI,Milwaukee,-1,,53.4394,,231.0
+WY,Cheyenne,-1,,83.5686,,188.0
