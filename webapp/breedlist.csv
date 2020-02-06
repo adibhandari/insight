@@ -1,0 +1,262 @@
+breeds.primary,breed_pop,norm_breed_freq,breedconv
+Affenpinscher,Low,0.002006478,Rare
+Afghan Hound,Low,0.000393427,Very Rare
+Airedale Terrier,Low,0.003685101,Rare
+Akbash,Low,0.000852425,Very Rare
+Akita,Low,0.012851953,Rare
+Alaskan Malamute,Low,0.006635804,Rare
+American Bulldog,Low,0.082645929,American Bulldog
+American Bully,Low,3.93E-05,Very Rare
+American Eskimo Dog,Low,0.00826197,Rare
+American Foxhound,Low,0.000563912,Very Rare
+American Hairless Terrier,Low,0.000196714,Very Rare
+American Staffordshire Terrier,Medium,0.118185514,American Staffordshire Terrier
+American Water Spaniel,Low,0.000131142,Very Rare
+Anatolian Shepherd,Low,0.014163377,Rare
+Appenzell Mountain Dog,Low,2.62E-05,Very Rare
+Aussiedoodle,Low,1.31E-05,Very Rare
+Australian Cattle Dog / Blue Heeler,Medium,0.136781504,Australian Cattle Dog / Blue Heeler
+Australian Kelpie,Low,0.006924318,Rare
+Australian Shepherd,Medium,0.158564253,Australian Shepherd
+Australian Terrier,Low,0.002399906,Rare
+Basenji,Low,0.011553644,Rare
+Basset Hound,Low,0.04854891,Basset Hound
+Beagle,Medium,0.257012839,Beagle
+Bearded Collie,Low,0.002032707,Rare
+Beauceron,Low,0.000314742,Very Rare
+Bedlington Terrier,Low,0.000157371,Very Rare
+Belgian Shepherd / Laekenois,Low,5.25E-05,Very Rare
+Belgian Shepherd / Malinois,Low,0.011317588,Rare
+Belgian Shepherd / Sheepdog,Low,0.00043277,Very Rare
+Belgian Shepherd / Tervuren,Low,0.000708169,Very Rare
+Bernese Mountain Dog,Low,0.005822722,Rare
+Bichon Frise,Low,0.026149791,Bichon Frise
+Black and Tan Coonhound,Low,0.007462001,Rare
+Black Labrador Retriever,Medium,0.102002544,Black Labrador Retriever
+Black Mouth Cur,Low,0.017704221,Black Mouth Cur
+Black Russian Terrier,Low,0.000118028,Very Rare
+Bloodhound,Low,0.009048824,Rare
+Blue Lacy,Low,0.001324538,Very Rare
+Bluetick Coonhound,Low,0.01144873,Rare
+Boerboel,Low,0.000760626,Very Rare
+Bolognese,Low,9.18E-05,Very Rare
+Border Collie,Medium,0.158590482,Border Collie
+Border Terrier,Low,0.009297995,Rare
+Borzoi,Low,6.56E-05,Very Rare
+Boston Terrier,Low,0.036759209,Boston Terrier
+Bouvier des Flandres,Low,0.000550798,Very Rare
+Boxer,Medium,0.265274809,Boxer
+Boykin Spaniel,Low,0.001009796,Very Rare
+Briard,Low,0.000288513,Very Rare
+Brittany Spaniel,Low,0.005691579,Rare
+Brussels Griffon,Low,0.008524255,Rare
+Bull Terrier,Low,0.015907571,Bull Terrier
+Bullmastiff,Low,0.006583348,Rare
+Cairn Terrier,Low,0.031618428,Cairn Terrier
+Canaan Dog,Low,0.001219624,Very Rare
+Cane Corso,Low,0.00869474,Rare
+Cardigan Welsh Corgi,Low,0.004406384,Rare
+Carolina Dog,Low,0.004589983,Rare
+Catahoula Leopard Dog,Low,0.06343357,Catahoula Leopard Dog
+Cattle Dog,Low,0.057781333,Cattle Dog
+Caucasian Sheepdog / Caucasian Ovtcharka,Low,0.000209828,Very Rare
+Cavalier King Charles Spaniel,Low,0.011737243,Rare
+Chesapeake Bay Retriever,Low,0.004458841,Rare
+Chihuahua,High,0.58869815,Chihuahua
+Chinese Crested Dog,Low,0.006425977,Rare
+Chinook,Low,2.62E-05,Very Rare
+Chiweenie,Low,0.000196714,Very Rare
+Chocolate Labrador Retriever,Low,0.033441307,Chocolate Labrador Retriever
+Chow Chow,Low,0.019881185,Chow Chow
+Cirneco dell'Etna,Low,3.93E-05,Very Rare
+Clumber Spaniel,Low,0.000380313,Very Rare
+Cockapoo,Low,0.00739643,Rare
+Cocker Spaniel,Low,0.047722713,Cocker Spaniel
+Collie,Low,0.041467221,Collie
+Coonhound,Low,0.022267976,Coonhound
+Corgi,Low,0.048181711,Corgi
+Coton de Tulear,Low,0.001193396,Very Rare
+Curly-Coated Retriever,Low,0.000314742,Very Rare
+Dachshund,Medium,0.234141608,Dachshund
+Dalmatian,Low,0.012051985,Rare
+Dandie Dinmont Terrier,Low,0.000577026,Very Rare
+Doberman Pinscher,Low,0.042870444,Doberman Pinscher
+Dogo Argentino,Low,0.001757308,Rare
+Dogue de Bordeaux,Low,0.002714647,Rare
+Dutch Shepherd,Low,0.008248856,Rare
+English Bulldog,Low,0.027356301,English Bulldog
+English Cocker Spaniel,Low,0.000760626,Very Rare
+English Coonhound,Low,0.003147417,Rare
+English Foxhound,Low,0.000144257,Very Rare
+English Pointer,Low,0.00352773,Rare
+English Setter,Low,0.006819404,Rare
+English Shepherd,Low,0.002111392,Rare
+English Springer Spaniel,Low,0.007501344,Rare
+English Toy Spaniel,Low,0.000196714,Very Rare
+Entlebucher,Low,0.000209828,Very Rare
+Eskimo Dog,Low,0.00068194,Very Rare
+Feist,Low,0.011527415,Rare
+Field Spaniel,Low,0.000118028,Very Rare
+Fila Brasileiro,Low,0.000367199,Very Rare
+Finnish Lapphund,Low,7.87E-05,Very Rare
+Finnish Spitz,Low,0.00068194,Very Rare
+Flat-Coated Retriever,Low,0.013114238,Rare
+Fox Terrier,Low,0.008747197,Rare
+Foxhound,Low,0.007894771,Rare
+French Bulldog,Low,0.00860294,Rare
+Galgo Spanish Greyhound,Low,0.000458998,Very Rare
+German Pinscher,Low,0.000734397,Very Rare
+German Shepherd Dog,Medium,0.285496964,German Shepherd Dog
+German Shorthaired Pointer,Low,0.016379683,German Shorthaired Pointer
+German Spitz,Low,0.000209828,Very Rare
+German Wirehaired Pointer,Low,0.002334334,Rare
+Giant Schnauzer,Low,0.001717965,Rare
+Glen of Imaal Terrier,Low,0.000511455,Very Rare
+Golden Retriever,Low,0.081019763,Golden Retriever
+Goldendoodle,Low,3.93E-05,Very Rare
+Gordon Setter,Low,0.000839311,Very Rare
+Great Dane,Low,0.055092914,Great Dane
+Great Pyrenees,Low,0.066371159,Great Pyrenees
+Greater Swiss Mountain Dog,Low,0.000983568,Very Rare
+Greyhound,Low,0.045257236,Greyhound
+Hamiltonstovare,Low,2.62E-05,Very Rare
+Harrier,Low,0.00129831,Very Rare
+Havanese,Low,0.013638808,Rare
+Hound,Medium,0.190484309,Hound
+Hovawart,Low,3.93E-05,Very Rare
+Husky,Low,0.090816099,Husky
+Ibizan Hound,Low,0.000616369,Very Rare
+Icelandic Sheepdog,Low,6.56E-05,Very Rare
+Irish Setter,Low,0.00129831,Very Rare
+Irish Terrier,Low,0.001573709,Rare
+Irish Wolfhound,Low,0.002452363,Rare
+Italian Greyhound,Low,0.01429452,Rare
+Jack Russell Terrier,Low,0.094645457,Jack Russell Terrier
+Japanese Chin,Low,0.003081846,Rare
+Jindo,Low,0.010688104,Rare
+Kai Dog,Low,5.25E-05,Very Rare
+Karelian Bear Dog,Low,0.000131142,Very Rare
+Keeshond,Low,0.001390109,Very Rare
+Kerry Blue Terrier,Low,5.25E-05,Very Rare
+Kishu,Low,1.31E-05,Very Rare
+Klee Kai,Low,0.000209828,Very Rare
+Komondor,Low,0.000170485,Very Rare
+Kuvasz,Low,0.000196714,Very Rare
+Kyi Leo,Low,1.31E-05,Very Rare
+Labradoodle,Low,2.62E-05,Very Rare
+Labrador Retriever,High,1,Labrador Retriever
+Lakeland Terrier,Low,0.000563912,Very Rare
+Lancashire Heeler,Low,0.000511455,Very Rare
+Leonberger,Low,0.000734397,Very Rare
+Lhasa Apso,Low,0.024628539,Lhasa Apso
+Lowchen,Low,7.87E-05,Very Rare
+Maltese,Low,0.070252974,Maltese
+Maltipoo,Low,3.93E-05,Very Rare
+Manchester Terrier,Low,0.006609576,Rare
+Maremma Sheepdog,Low,0.000170485,Very Rare
+Mastiff,Low,0.039749256,Mastiff
+McNab,Low,0.000445884,Very Rare
+Miniature Bull Terrier,Low,2.62E-05,Very Rare
+Miniature Dachshund,Low,0.000917997,Very Rare
+Miniature Pinscher,Low,0.062830315,Miniature Pinscher
+Miniature Poodle,Low,0.003501502,Rare
+Miniature Schnauzer,Low,0.006583348,Rare
+Mixed Breed,Medium,0.165095144,Mixed Breed
+Mountain Cur,Low,0.014438776,Rare
+Mountain Dog,Low,0.001363881,Very Rare
+Munsterlander,Low,5.25E-05,Very Rare
+Neapolitan Mastiff,Low,0.001770422,Rare
+New Guinea Singing Dog,Low,1.31E-05,Very Rare
+Newfoundland Dog,Low,0.006911203,Rare
+Norfolk Terrier,Low,0.004288356,Rare
+Norwegian Buhund,Low,3.93E-05,Very Rare
+Norwegian Elkhound,Low,0.002609733,Rare
+Norwegian Lundehund,Low,7.87E-05,Very Rare
+Norwich Terrier,Low,0.002780218,Rare
+Nova Scotia Duck Tolling Retriever,Low,0.001363881,Very Rare
+Old English Sheepdog,Low,0.001560594,Rare
+Otterhound,Low,0.000222942,Very Rare
+Papillon,Low,0.02194012,Papillon
+Parson Russell Terrier,Low,0.013507665,Rare
+Patterdale Terrier / Fell Terrier,Low,0.001835993,Rare
+Pekingese,Low,0.022726975,Pekingese
+Pembroke Welsh Corgi,Low,0.000393427,Very Rare
+Peruvian Inca Orchid,Low,0.000104914,Very Rare
+Petit Basset Griffon Vendeen,Low,0.00188845,Rare
+Pharaoh Hound,Low,0.002255649,Rare
+Pit Bull Terrier,High,0.45322807,Pit Bull Terrier
+Plott Hound,Low,0.02453674,Plott Hound
+Pointer,Low,0.042463903,Pointer
+Polish Lowland Sheepdog,Low,0.000118028,Very Rare
+Pomeranian,Low,0.065505619,Pomeranian
+Poodle,Medium,0.134735683,Poodle
+Portuguese Podengo,Low,0.000616369,Very Rare
+Portuguese Water Dog,Low,0.000406541,Very Rare
+Presa Canario,Low,0.001350767,Very Rare
+Pug,Low,0.070016917,Pug
+Puggle,Low,3.93E-05,Very Rare
+Puli,Low,3.93E-05,Very Rare
+Pumi,Low,3.93E-05,Very Rare
+Pyrenean Shepherd,Low,9.18E-05,Very Rare
+Rat Terrier,Low,0.054201146,Rat Terrier
+Redbone Coonhound,Low,0.01092416,Rare
+Retriever,Medium,0.10112389,Retriever
+Rhodesian Ridgeback,Low,0.011527415,Rare
+Rottweiler,Low,0.064285995,Rottweiler
+Rough Collie,Low,0.001049139,Very Rare
+Saint Bernard,Low,0.019684471,Saint Bernard
+Saluki,Low,0.001704851,Rare
+Samoyed,Low,0.002163849,Rare
+Schipperke,Low,0.003449045,Rare
+Schnauzer,Low,0.076456008,Schnauzer
+Schnoodle,Low,2.62E-05,Very Rare
+Scottish Deerhound,Low,0.000144257,Very Rare
+Scottish Terrier,Low,0.006989889,Rare
+Sealyham Terrier,Low,9.18E-05,Very Rare
+Setter,Low,0.002045821,Rare
+Shar-Pei,Low,0.026398961,Shar-Pei
+Sheep Dog,Low,0.001324538,Very Rare
+Sheepadoodle,Low,1.31E-05,Very Rare
+Shepherd,Medium,0.308578023,Shepherd
+Shetland Sheepdog / Sheltie,Low,0.01893696,Shetland Sheepdog / Sheltie
+Shiba Inu,Low,0.010281563,Rare
+Shih poo,Low,1.31E-05,Very Rare
+Shih Tzu,Medium,0.139876464,Shih Tzu
+Siberian Husky,Low,0.040863966,Siberian Husky
+Silky Terrier,Low,0.006793175,Rare
+Skye Terrier,Low,0.000734397,Very Rare
+Smooth Collie,Low,0.000983568,Very Rare
+Smooth Fox Terrier,Low,0.000983568,Very Rare
+South Russian Ovtcharka,Low,1.31E-05,Very Rare
+Spaniel,Low,0.047434199,Spaniel
+Spanish Water Dog,Low,6.56E-05,Very Rare
+Spinone Italiano,Low,5.25E-05,Very Rare
+Spitz,Low,0.0039605,Rare
+Staffordshire Bull Terrier,Low,0.027920213,Staffordshire Bull Terrier
+Standard Poodle,Low,0.007094803,Rare
+Standard Schnauzer,Low,0.001009796,Very Rare
+Sussex Spaniel,Low,0.000104914,Very Rare
+Swedish Vallhund,Low,0.000144257,Very Rare
+Terrier,High,0.386542169,Terrier
+Thai Ridgeback,Low,0.000183599,Very Rare
+Tibetan Mastiff,Low,0.000511455,Very Rare
+Tibetan Spaniel,Low,0.003173646,Rare
+Tibetan Terrier,Low,0.003304788,Rare
+Tosa Inu,Low,0.000183599,Very Rare
+Toy Fox Terrier,Low,0.002937589,Rare
+Treeing Walker Coonhound,Low,0.018215677,Treeing Walker Coonhound
+Vizsla,Low,0.007383316,Rare
+Weimaraner,Low,0.016235427,Weimaraner
+Welsh Springer Spaniel,Low,0.000209828,Very Rare
+Welsh Terrier,Low,0.000826197,Very Rare
+West Highland White Terrier / Westie,Low,0.017009167,West Highland White Terrier / Westie
+Wheaten Terrier,Low,0.010570076,Rare
+Whippet,Low,0.011317588,Rare
+White German Shepherd,Low,0.002635962,Rare
+Wire Fox Terrier,Low,0.004144099,Rare
+Wirehaired Dachshund,Low,0.001376995,Very Rare
+Wirehaired Pointing Griffon,Low,0.001232738,Very Rare
+Wirehaired Terrier,Low,0.027553014,Wirehaired Terrier
+Xoloitzcuintli / Mexican Hairless,Low,0.001075368,Very Rare
+Yellow Labrador Retriever,Low,0.051997954,Yellow Labrador Retriever
+Yorkshire Terrier,Medium,0.110238286,Yorkshire Terrier
