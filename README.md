@@ -36,24 +36,25 @@ project
 │   │   stats_all.csv
 │   │
 │   └───analysis
-│   |   │   stats_all_combined.ipynb
-│   |   │   stats_all_combined_v2.ipynb
-│   |   │   validation.ipynb
-│   |   │   visualization.ipynb
-│   |   │   ...
+│       │   stats_all_combined.ipynb
+│       │   stats_all_combined_v2.ipynb
+│       │   validation.ipynb
+│       │   visualization.ipynb
+│       │   ...
 │   │
 │   └───data_acquisition
-│   |   │   clean_data_all.ipynb
-│   |   │   data_acquisition_by_state.ipynb
-│   |   │   merge_data_all.ipynb
-│   |   │   ...
+│       │   clean_data_all.ipynb
+│       │   data_acquisition_by_state.ipynb
+│       │   merge_data_all.ipynb
+│       │   s3_models.ipynb
+│       │   ...
 │   │
 │   └───model_selection
-│   |   │   final_model.ipynb
-│   |   │   final_model_combined.ipynb
-│   |   │   model_selection_all_A4.ipynb
-│   |   │   model_selection_all_combined_v2.ipynb
-│   |   │   ...
+│       │   final_model.ipynb
+│       │   final_model_combined.ipynb
+│       │   model_selection_all_A4.ipynb
+│       │   model_selection_all_combined_v2.ipynb
+│       │   ...
 |   
 └───webapp
     │   breedlist.csv
