@@ -13,13 +13,56 @@ The [ASPCA relocation program](https://www.aspca.org/animal-placement/animal-rel
 
 SmartRelocator is able to predict adoption times for dogs in various states given their characteristics such as age, size and breed. This allows for optimizing relocation decisions and overall reduce the adoption time for dogs.
 
-### Data
+## Data
 
 Data for dogs from various states was obtained from the [Petfinder API](https://www.petfinder.com/developers/). Petfinder is the largest online pet adoption website in North America and the API provides access to the Petfinder database of hundreds of thousands of pets in animal shelters in the US.
 
 This was supplemented by state specific information such as population and area from the [US Census Bureau](https://www.census.gov/).
 
-### Prerequisites
+## Directory Structure
+```
+project
+│   README.md
+│   LICENSE.md    
+│   .gitignore
+│
+└───extras
+│   │   pie2.png
+│
+└───src
+│   │   breedlist_all.csv
+│   │   breedlist_all_a4.csv
+│   │   stats.csv
+│   │   stats_all.csv
+│   │
+│   └───analysis
+│   |   │   stats_all_combined.ipynb
+│   |   │   stats_all_combined_v2.ipynb
+│   |   │   validation.ipynb
+│   |   │   visualization.ipynb
+│   |   │   ...
+│   │
+│   └───data_acquisition
+│   |   │   clean_data_all.ipynb
+│   |   │   data_acquisition_by_state.ipynb
+│   |   │   merge_data_all.ipynb
+│   |   │   ...
+│   │
+│   └───model_selection
+│   |   │   final_model.ipynb
+│   |   │   final_model_combined.ipynb
+│   |   │   model_selection_all_A4.ipynb
+│   |   │   model_selection_all_combined_v2.ipynb
+│   |   │   ...
+|   
+└───webapp
+    │   breedlist.csv
+    │   relocatortools.py
+    │   statelist.csv
+    │   Smartrelocator.py
+```
+
+## Prerequisites
 
 * Python 3.7
 * Jupyter Notebook
